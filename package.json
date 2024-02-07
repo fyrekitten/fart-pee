@@ -1,5 +1,5 @@
 {
-  "name": "ultraviolet-static",
+  "name": "drynkingfountain-static",
   "main": "lib/index.js",
   "version": "1.0.2",
   "type": "module",
@@ -8,7 +8,7 @@
     "lib"
   ],
   "peerDependencies": {
-    "@titaniumnetwork-dev/ultraviolet": "^2.0.0"
+    "@titaniumnetwork-dev/drynkingfountain": "^2.0.0"
   },
   "devDependencies": {
     "eslint": "^8.23.0",
